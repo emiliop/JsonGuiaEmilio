@@ -11,6 +11,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.rut.com/normatividad.pdf",
 			"entity" : "DIAN",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},
 		{
@@ -24,6 +25,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.rit.com/normatividad.pdf",
 			"entity" : "hacienda",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
 		}, 
 		{
@@ -38,6 +40,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.movilidad.com/normatividad.pdf",
 			"entity" : "movilidad",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_movilidad", "sim_siete_de_agosto"]
 		}, 
 		{
@@ -51,6 +54,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["registraduria_chapinero"]
 		},
 		{
@@ -65,6 +69,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},
 		{
@@ -79,6 +84,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.rut.com/normatividad.pdf",
 			"entity" : "DIAN",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},
 		{
@@ -92,6 +98,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.rit.com/normatividad.pdf",
 			"entity" : "hacienda",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
 		}, 
 		{
@@ -106,6 +113,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.movilidad.com/normatividad.pdf",
 			"entity" : "movilidad",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_movilidad", "sim_siete_de_agosto"]
 		}, 
 		{
@@ -119,6 +127,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["registraduria_chapinero"]
 		},
 		{
@@ -133,6 +142,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},
 		{
@@ -147,6 +157,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},{
 			"id" : "Otro3registro_nacimiento",
@@ -160,6 +171,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},{
 			"id" : "Otro4registro_nacimiento",
@@ -173,6 +185,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},{
 			"id" : "Otro5registro_nacimiento",
@@ -186,6 +199,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},{
 			"id" : "Otro6registro_nacimiento",
@@ -199,6 +213,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},{
 			"id" : "Otro7registro_nacimiento",
@@ -212,6 +227,7 @@
 			"requisitosURL" : "http://www.registraduria.com/requisitos.html",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"responseTime" : "1 semana",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		}
 	],
