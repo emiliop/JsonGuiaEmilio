@@ -238,7 +238,7 @@
 			"short_name" : "DIAN",
 			"initial" : "DIAN",
 			"phone" : "123456",
-			"homepage" : "www.dian.gov.co",
+			"homepage" : "http://www.dian.gov.co",
 			"processes" : ["rut"],
 			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		}, 
@@ -247,7 +247,7 @@
 			"long_name" : "Secretaría de Hacienda Distrital",
 			"short_name" : "Hacienda",
 			"phone" : "123456",
-			"homepage" : "www.hacienda.gov.co",
+			"homepage" : "http://www.hacienda.gov.co",
 			"processes" : ["rit"],
 			"servicePoints" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
 		},
@@ -256,7 +256,7 @@
 			"long_name" : "Secretaría de Educacion",
 			"short_name" : "educacion",
 			"phone" : "22112211",
-			"homepage" : "www.edu.gov.co",
+			"homepage" : "http://www.edu.gov.co",
 			"processes" : ["rut"],
 			"servicePoints" : ["supercade_20dejulio", "supercade_movilidad", "direccion_impuestos"]
 		},
@@ -266,7 +266,7 @@
 			"long_name" : "Secretaría de Movilidad",
 			"short_name" : "movilidad",
 			"phone" : "123456",
-			"homepage" : "www.movilidad.gov.co",
+			"homepage" : "http://www.movilidad.gov.co",
 			"processes" : ["traspaso"],
 			"servicePoints" : ["supercade_movilidad", "sim_siete_de_agosto"]
 		}, 
@@ -275,7 +275,7 @@
 			"long_name" : "Registraduría Nacional del Estado Civil",
 			"short_name" : "Registraduria Nacional",
 			"phone" : "123456",
-			"homepage" : "www.registraduria.gov.co",
+			"homepage" : "http://www.registraduria.gov.co",
 			"processes" : ["registro_civil"],
 			"servicePoints" : ["registraduria_chapinero"]
 		}
