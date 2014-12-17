@@ -237,6 +237,7 @@
 			"long_name" : "Dirección de Impuestos y Aduanas Nacionales",
 			"short_name" : "DIAN",
 			"initial" : "DIAN",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"phone" : "123456",
 			"homepage" : "http://www.dian.gov.co",
 			"processes" : ["rut"],
@@ -246,6 +247,8 @@
 			"id" : "hacienda",
 			"long_name" : "Secretaría de Hacienda Distrital",
 			"short_name" : "Hacienda",
+			"initial" : "HCD",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"phone" : "123456",
 			"homepage" : "http://www.hacienda.gov.co",
 			"processes" : ["rit"],
@@ -255,6 +258,7 @@
 			"id" : "Educacion",
 			"long_name" : "Secretaría de Educacion",
 			"short_name" : "educacion",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"phone" : "22112211",
 			"homepage" : "http://www.edu.gov.co",
 			"processes" : ["rut"],
@@ -265,7 +269,8 @@
 			"name" : "",
 			"long_name" : "Secretaría de Movilidad",
 			"short_name" : "movilidad",
-			"phone" : "123456",
+			"phone" : "338 6660 ext 1304",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"homepage" : "http://www.movilidad.gov.co",
 			"processes" : ["traspaso"],
 			"servicePoints" : ["supercade_movilidad", "sim_siete_de_agosto"]
@@ -274,6 +279,7 @@
 			"id" : "registraduria",
 			"long_name" : "Registraduría Nacional del Estado Civil",
 			"short_name" : "Registraduria Nacional",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"phone" : "123456",
 			"homepage" : "http://www.registraduria.gov.co",
 			"processes" : ["registro_civil"],
@@ -283,16 +289,14 @@
 	"servicePoints" : [
 		{
 			"id" : "supercade_cad",
-			"name" : "SuperCADE CAD",
-			"address" : "Calle 26 con Cra 30",
-			"phone" : "123456",
+			"name" : "SuperCADE CAD SUPER",
+			"address" : "Calle 26 con Cra 30 -99",
+			"phone" : "12345666",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
-			"email" : "mail@supercade.gov.co",
-			"homepage" : "www.supercade.com",
+			"localization_lat" : "4.626438",
+			"localization_lon" : "-74.106583",
+			"email" : "mail@supercade.gov.co.com",
+			"homepage" : "http://www.supercade.com",
 			"processes" : ["rut", "rit"]
 		}, 
 		{
@@ -301,12 +305,10 @@
 			"address" : "Calle 12 con Cra 10",
 			"phone" : "3333444",
 			"schedule" : "L-V 9:00 AM a 1:00 PM",
-			"localization" : {
-				"latitude" : 4.569173,
-				"longitude" : -74.097237
-			},
+			"localization_lat" : "4.569173",
+			"localization_lon" : "-74.097237",
 			"email" : "20dejulio@supercade.gov.co",
-			"homepage" : "www.supercade20.com",
+			"homepage" : "http://www.supercade20.com",
 			"processes" : ["rut", "rit"]
 		}, 
 		{
@@ -315,12 +317,10 @@
 			"address" : "Calle 13 con Cra 38",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@supercade.gov.co",
-			"homepage" : "www.supercade.com",
+			"homepage" : "http://www.supercade.com",
 			"processes" : ["rut", "rit", "traspaso"]
 		}, 
 		{
@@ -329,12 +329,10 @@
 			"address" : "Calle 65 con Cra 23",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@sim.gov.co",
-			"homepage" : "www.sim.com",
+			"homepage" : "http://www.sim.com",
 			"processes" : ["traspaso"]
 		}, 
 		{
@@ -343,12 +341,10 @@
 			"address" : "Calle 74 con Cra 15",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@dian.gov.co",
-			"homepage" : "www.dian.com",
+			"homepage" : "http://www.dian.com",
 			"processes" : ["rut"]
 		}, 
 		{
@@ -357,12 +353,10 @@
 			"address" : "Carrera 68 con calle 17",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@hacienda.gov.co",
-			"homepage" : "www.hacienda.com",
+			"homepage" : "http://www.hacienda.com",
 			"processes" : ["rit"]
 		},
 		{
@@ -371,12 +365,10 @@
 			"address" : "Carrera 7 con calle 45",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@registraduria.gov.co",
-			"homepage" : "www.registraduria.com",
+			"homepage" : "http://www.registraduria.com",
 			"processes" : ["registro_civil"]
 		}
 	]
