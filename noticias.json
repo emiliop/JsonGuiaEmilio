@@ -1,6 +1,6 @@
 {
 	"news" : [ {
-			"id" : "noticia 1",
+			"id" : "noticia uno",
 			"title" : "noticia uno",
 			"date" : "31 de Diciembre de 2024",
 			"newURL": "http://www.noticia.com",
