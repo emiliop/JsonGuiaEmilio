@@ -4,21 +4,15 @@
       "id": "1",
       "name": "REGISTRO DE LIBRO DE OPERACIONES DE INDUSTRIAS FORESTALES",
       "description": "Lorem ipsum bla bla bla y esas cosas",
+      "schedule": "Lunes a Viernes 4 a 5",
       "url": "www.servicios.com",
       "cost": "10000",
-      "schedule": "Lunes a Viernes 4 a 5",
       "additionalInformation": "info adicional",
       "requisitesURL": "www.requisitos.com",
       "legislationURL": "www.url-legislacion.com",
-      "entity": [
-        "4",
-        "3"
-      ],
+      "entity": "4,3",
       "responseTime": "2 dias",
-      "pointsOfService": [
-        "6",
-        "5"
-      ],
+      "pointsOfService": "6,5",
       "idCategory": "75",
       "categoryName": "PREFERENCIAL SDA"
     },
@@ -26,21 +20,15 @@
       "id": "2",
       "name": "INFORMACI\u00d3N Y AFILIACI\u00d3N SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
       "description": "Lorem ipsum bla bla bla y esas cosas",
+      "schedule": "Lunes a Viernes 4 a 5",
       "url": "www.servicios.com",
       "cost": "10000",
-      "schedule": "Lunes a Viernes 4 a 5",
       "additionalInformation": "info adicional",
       "requisitesURL": "www.requisitos.com",
       "legislationURL": "www.url-legislacion.com",
-      "entity": [
-        "3",
-        "4"
-      ],
+      "entity": "3,4",
       "responseTime": "2 dias",
-      "pointsOfService": [
-        "5",
-        "6"
-      ],
+      "pointsOfService": "5,6",
       "idCategory": "76",
       "categoryName": "SISTEMA GENERAL DE SEGURIDAD SOCIAL"
     }
@@ -51,17 +39,11 @@
       "long_name": "EMPRESA DE ACUEDUCTO, ALCANTARILLADO Y ASEO DE BOGOT\u00c1 EAB",
       "short_name": "ACUEDUCTO Y ASEO",
       "initials": "ABC",
+      "description": "Lorem ipsum bla bla bla y esas cosas",
       "phone": "7509548",
       "homepage": "www.entidad.com",
-      "description": "Lorem ipsum bla bla bla y esas cosas",
-      "processes": [
-        "2",
-        "1"
-      ],
-      "pointsOfService": [
-        "6",
-        "5"
-      ]
+      "processes": "2,1",
+      "pointsOfService": "6,5"
     },
     {
       "id": "4",
@@ -71,14 +53,8 @@
       "phone": "7509548",
       "homepage": "www.entidad.com",
       "description": "Lorem ipsum bla bla bla y esas cosas",
-      "processes": [
-        "1",
-        "2"
-      ],
-      "pointsOfService": [
-        "5",
-        "6"
-      ]
+      "processes": "1,2",
+      "pointsOfService": "5,6"
     }
   ],
   "servicePoints": [
@@ -92,11 +68,8 @@
       "localization_lon": "-74.097237",
       "email": "sede@sede.com",
       "homepage": "www.sede.com",
-      "processes": [
-        "2",
-        "1"
-      ]
-    },
+      "processes": "2,1"
+   },
     {
       "id": "6",
       "name": "CADE YOMASA",
@@ -107,10 +80,7 @@
       "localization_lon": "-74.097237",
       "email": "sede@sede.com",
       "homepage": "www.sede.com",
-      "processes": [
-        "1",
-        "2"
-      ]
+      "processes": "1,2"
     }
   ]
 }
