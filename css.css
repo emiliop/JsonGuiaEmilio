@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.menuSecundario{
+	display: inline-block;
+padding: 20px;
+width: 20%;
+box-sizing: border-box;
+text-align: center;
+}
