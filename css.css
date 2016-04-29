@@ -1,6 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
-
+h2 a{
+	color:red !important;
+}
 .menuSecundario{
 	display: inline-block;
 padding: 20px;
